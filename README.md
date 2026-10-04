@@ -1,4 +1,4 @@
-# Sayraa — EduSkill Assistant
+# Renaissance med spa ai Assistant
 
 A responsive EduSkill landing page and chat-interface preview built with React, Vite, JavaScript, and Tailwind CSS. The design follows the project design guide's warm neutral palette and restrained aesthetic.
 
